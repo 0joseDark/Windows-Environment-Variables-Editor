@@ -1,4 +1,4 @@
-# Windows-Environment-Variables-Edito
+# Windows-Environment-Variables-Editor
 
 ---
 
