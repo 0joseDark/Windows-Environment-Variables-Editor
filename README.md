@@ -1,7 +1,5 @@
 # Windows-Environment-Variables-Edito
 
-**aplicação em Python com Qt (PyQt5)** para **editar variáveis de ambiente no Windows 10**, com **interface gráfica (GUI)** contendo **menu, botões (Editar, Escrever, Apagar, OK, Sair)**.
-
 ---
 
 ### ✅ Funcionalidades:
